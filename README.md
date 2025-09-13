@@ -4,4 +4,5 @@ This repository contains my code for web scraping with the nba_api to pull a lis
 
 🔗 [View the Tableau Dashboard Here](https://public.tableau.com/app/profile/moira.renata/viz/HowdoAgeandPregnancyImpactPerformanceinWNBA/Dashboard1)
 
+![alt text](image.png)
 
